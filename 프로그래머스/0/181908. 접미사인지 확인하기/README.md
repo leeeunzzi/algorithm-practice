@@ -1,6 +1,6 @@
 # [level 0] 접미사인지 확인하기 - 181908 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181908?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181908) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 02일 17:10:25
+2024년 05월 02일 17:10:49
 
 ### 문제 설명
 
